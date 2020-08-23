@@ -35,7 +35,7 @@ function App({ articles }) {
         <div className="App">
             <div>
                 <label className = "App-header">
-                    Sort By
+                    {title}
                 </label>
                 <button
                     data-testid="most-upvoted-link"
