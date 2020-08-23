@@ -1,6 +1,7 @@
 {
-    "name": "sortingapp",
+    
     "homepage": "https://keerthilingu.github.io/react-table-sorting-app",
+    "name": "react-table-sorting-app",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
