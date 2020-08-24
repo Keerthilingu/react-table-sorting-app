@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-table-sorting-app/precache-manifest.70f0dac5fccbdff8483d4a900fa0cb37.js"
+  "/react-table-sorting-app/precache-manifest.0b96c094ae5d029fa53bd8a5f1721b40.js"
 );
 
 self.addEventListener('message', (event) => {
